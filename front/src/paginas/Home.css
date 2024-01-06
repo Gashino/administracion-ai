@@ -1,0 +1,79 @@
+/* Homepage.css */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,700;9..40,900&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+h1 {
+
+    margin-top: 20px;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.custom-typography {
+    font-weight: 00;
+    color: #b3b3b3;
+    width: 100%;
+}
+
+
+.homepage {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Centra el contenido horizontalmente */
+    padding: 20px;
+    text-align: center;
+    /* Centra el texto horizontalmente */
+    flex-grow: 1;
+    /* Hace que la sección de contenido ocupe todo el espacio disponible */
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* Centra el contenido horizontalmente */
+    align-items: center;
+    background-color: #434240a4;
+    backdrop-filter: blur(20px);
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 1%;
+    /* Centra el contenido verticalmente */
+}
+
+.text-section {
+    flex: 1;
+    max-width: 600px;
+}
+
+.image-section {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    /* Alinea la imagen a la izquierda */
+}
+
+.admin-image {
+    margin-left: 20px;
+    /* Ajusta el margen izquierdo según tus necesidades */
+    max-width: 100%;
+    width: 600px;
+    border-radius: 10px;
+}
+
+.copyright-footer {
+    margin: 5px;
+}
+
+.color-special{
+    color: #d18880;
+}
