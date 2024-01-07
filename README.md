@@ -36,5 +36,4 @@ Administración UI está construido con las siguientes tecnologías de uso libre
 -   MySQL (BD)
 
 ### Responsables
-Axel Gaggino (https://github.com/Gashino) & Pedro Esteban (https://github.com/pepuwu)
-[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+Axel Gaggino (https://github.com/Gashino) && Pedro Esteban (https://github.com/pepuwu)
