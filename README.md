@@ -1,4 +1,4 @@
-# Administracion AI 🏢
+# Administración AI 🏢
 
 Administración-AI es una aplicación web que te permitirá gestionar edificios con sus respectivas unidades, así como a las personas que residen en ellos y sus reclamaciones.
 
