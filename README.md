@@ -25,3 +25,7 @@ Administración UI está construido con las siguientes tecnologías de uso libre
 -   Material UI
 -   Springboot 
 -   MySQL (BD)
+
+### Responsables
+Axel Gaggino (https://github.com/Gashino)
+Pedro Esteban (https://github.com/pepuwu)
